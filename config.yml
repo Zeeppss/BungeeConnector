@@ -1,0 +1,22 @@
+#####     #####        \       ########    #######    #######    ######    ######    #######    ######
+#    #   ##            /           ##      #          #          #     #   #     #  #          #
+# # # #  #             \         ##        ####       ####       ######    ######    ######     ###### > Zeeppss#6552
+#    #   ##            /        ##         #          #          #         #               #          #
+# # # #   #####        \       ########    #######    #######    #         #         ######     ######
+
+#This is the server to which they will be connected
+#(It must be the SAME name as in the config.yml of BUNGEECORD)
+hub-server: Lobby
+
+connected: '&aYou are connected to the Lobby'
+already-connected: '&cYou are already connected to this server!'
+disabled-command: '&cPermission Denied!!'
+
+#Here, you can add the commands that you want to be used to return to the lobby!
+hub-commands:
+  - /lobby
+  - /hub
+
+#Servers in which the command can not be placed
+deny-servers:
+  - 'prelobby'
