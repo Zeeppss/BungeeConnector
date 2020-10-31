@@ -7,6 +7,6 @@ Plugin ini berfungsi sebagai konektor server melalui perintah, Anda dapat menggu
 # Installing
 1).**Make sure you download this plugin** // Pastikan anda sudah menginstall plugin ini
    
-2).**Make sure you also upload this plugin on the dedicated** `Bungeecord` **server** // Pastikan anda sudah mengunggah plugin ini di server khusus `Bungeecord`.
+2).**Make sure you also upload this plugin on the dedicated** `Bungeecord` **server** // Pastikan anda sudah mengunggah plugin ini di server khusus `Bungeecord.`
    
  
